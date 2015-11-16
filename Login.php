@@ -24,8 +24,8 @@
     </div>
 
     <div class="login-help">
-        <p>Unustasid salasõna? <a href="index.html">Kliki siia, et see resetida</a>.</p>
+        <p>Unustasid salasÃµna? <a href="index.html">Kliki siia, et see resetida</a>.</p>
     </div>
-</section>
+</section>S
 </body>
 </html>
